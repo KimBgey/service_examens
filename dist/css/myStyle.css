@@ -1,0 +1,20 @@
+body{
+	padding-top: 70px;
+}
+.breadcrumb{
+	float: left;
+	margin: 7px 10px;
+}
+blockquote {
+	margin-top: 70px;
+
+}
+.avatar{
+	background: url(image/avatar.png) center;
+	background-size cover;
+}
+
+.mini{
+	height: 100px;
+	width: 70px;
+}
